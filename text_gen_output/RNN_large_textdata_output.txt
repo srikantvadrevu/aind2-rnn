@@ -1,0 +1,20 @@
+-------------------
+input chars = 
+all emotions, and that one particularly, were abhorrent to his cold, precise but admirably balanced "
+predicted chars = 
+of the bridger.  he is a youdg arsiss.  he is a you? s and s that was the came to be as for the mort"
+-------------------
+input chars = 
+i had seen little of holmes lately. my marriage had drifted us away from each other. my own complete"
+predicted chars = 
+ it was a serroce man stoncy staid. now, sinden, have here you not, so hall have and and and a some "
+-------------------
+input chars = 
+i could not help laughing at the ease with which he explained his process of deduction. when i hear "
+predicted chars = 
+the bet one of the mindiccl of there and the ple poring which he houds of betore he soll drown right"
+-------------------
+input chars = 
+ clearing up of the singular tragedy of the atkinson brothers at trincomalee, and finally of the mis"
+predicted chars = 
+tly clair and a stood and all was been and collactered of and thith a went of his breather had been "
